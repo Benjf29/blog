@@ -11,6 +11,9 @@ html, body {
     height: 100%;
 }
 
+#titreReponses {
+    font-size : 100%;
+}
 body {
     color: #bfbfbf;
     background: black;
